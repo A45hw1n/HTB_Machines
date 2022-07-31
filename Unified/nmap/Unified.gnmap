@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Wed Jul 27 21:00:23 2022 as: nmap -sC -sV -oA nmap/Unified 10.129.219.34
+Host: 10.129.219.34 ()	Status: Up
+Host: 10.129.219.34 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)/, 6789/open/tcp//ibm-db2-admin?///, 8080/open/tcp//http-proxy///, 8443/open/tcp//ssl|nagios-nsca//Nagios NSCA/	Ignored State: closed (996)
+# Nmap done at Wed Jul 27 21:03:29 2022 -- 1 IP address (1 host up) scanned in 185.97 seconds

@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Wed Jul  6 18:34:13 2022 as: nmap -sC -sV -oA nmap/Responder 10.129.59.165
+Host: 10.129.59.165 ()	Status: Up
+Host: 10.129.59.165 ()	Ports: 80/open/tcp//http//Apache httpd 2.4.52 ((Win64) OpenSSL|1.1.1m PHP|8.1.1)/	Ignored State: filtered (999)
+# Nmap done at Wed Jul  6 18:34:53 2022 -- 1 IP address (1 host up) scanned in 40.75 seconds
