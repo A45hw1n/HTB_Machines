@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Sun Jul 24 10:33:31 2022 as: nmap -sC -sV -oA nmap/Bike 10.129.97.64
+Host: 10.129.97.64 ()	Status: Up
+Host: 10.129.97.64 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.2p1 Ubuntu 4ubuntu0.4 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Node.js (Express middleware)/	Ignored State: closed (998)
+# Nmap done at Sun Jul 24 10:33:51 2022 -- 1 IP address (1 host up) scanned in 20.06 seconds
