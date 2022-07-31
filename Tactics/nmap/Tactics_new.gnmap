@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Sun Jul 24 22:10:30 2022 as: nmap -sC -sV -Pn -oA nmap/Tactics_new 10.129.136.32
+Host: 10.129.136.32 ()	Status: Up
+Host: 10.129.136.32 ()	Ports: 135/open/tcp//msrpc//Microsoft Windows RPC/, 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds?///	Ignored State: filtered (997)
+# Nmap done at Sun Jul 24 22:11:50 2022 -- 1 IP address (1 host up) scanned in 80.26 seconds
