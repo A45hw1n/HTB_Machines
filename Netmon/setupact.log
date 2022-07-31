@@ -1,0 +1,86 @@
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCISkipClassInstaller: SetupDiGetSelectedDriver failed with error 0xe0000203.
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x25590300
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCISkipClassInstaller: SetupDiGetSelectedDriver failed with error 0xe0000203.
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device VMBUS\{DA0A7802-E377-4AAC-8E77-0558EB1073F8}\{5620E0C7-8062-4DCE-AEB7-520C7EF76171}
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnAllowInstall============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xdd
+dispci.dll:  ============END OnAllowInstall==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x18 and device VMBUS\{DA0A7802-E377-4AAC-8E77-0558EB1073F8}\{5620E0C7-8062-4DCE-AEB7-520C7EF76171}
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnInstallDeviceFiles============
+dispci.dll:  ============END OnInstallDeviceFiles==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x15 and device VMBUS\{DA0A7802-E377-4AAC-8E77-0558EB1073F8}\{5620E0C7-8062-4DCE-AEB7-520C7EF76171}
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x254922e0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0x254922e0
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xdd
+dispci.dll:  ============BEGIN OnInstallDevice============
+dispci.dll:  ============END OnInstallDevice==============
+dispci.dll:  DisplayClassInstaller: Returning 0x00000000 for DIF 0x2 and device VMBUS\{DA0A7802-E377-4AAC-8E77-0558EB1073F8}\{5620E0C7-8062-4DCE-AEB7-520C7EF76171}
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnFinishInstall============
+dispci.dll:  ============END OnFinishInstall==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x1e and device VMBUS\{DA0A7802-E377-4AAC-8E77-0558EB1073F8}\{5620E0C7-8062-4DCE-AEB7-520C7EF76171}
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device VMBUS\{DA0A7802-E377-4AAC-8E77-0558EB1073F8}\{5620E0C7-8062-4DCE-AEB7-520C7EF76171}
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCISkipClassInstaller: SetupDiGetSelectedDriver failed with error 0xe0000203.
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0xfc4b0300
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCISkipClassInstaller: SetupDiGetSelectedDriver failed with error 0xe0000203.
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_15AD&DEV_0405&SUBSYS_040515AD&REV_00\3&18D45AA6&0&78
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnAllowInstall============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfb
+dispci.dll:  ============END OnAllowInstall==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x18 and device PCI\VEN_15AD&DEV_0405&SUBSYS_040515AD&REV_00\3&18D45AA6&0&78
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnInstallDeviceFiles============
+dispci.dll:  ============END OnInstallDeviceFiles==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x15 and device PCI\VEN_15AD&DEV_0405&SUBSYS_040515AD&REV_00\3&18D45AA6&0&78
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0xfc4b6f74
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DisplayClassInstaller: Unrecognized DIF request 0xfc4b6f74
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  DispCIIsDriverInstallAllowed: Driver package contains a feature score 0xfb
+dispci.dll:  ============BEGIN OnInstallDevice============
+dispci.dll:  ============END OnInstallDevice==============
+dispci.dll:  DisplayClassInstaller: Returning 0x00000000 for DIF 0x2 and device PCI\VEN_15AD&DEV_0405&SUBSYS_040515AD&REV_00\3&18D45AA6&0&78
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnFinishInstall============
+dispci.dll:  ============END OnFinishInstall==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0x1e and device PCI\VEN_15AD&DEV_0405&SUBSYS_040515AD&REV_00\3&18D45AA6&0&78
+dispci.dll:  ============END DisplayClassInstaller==============
+dispci.dll:  ============BEGIN DisplayClassInstaller============
+dispci.dll:  ============BEGIN OnDestroyPrivateData============
+dispci.dll:  ============END OnDestroyPrivateData==============
+dispci.dll:  DisplayClassInstaller: Returning 0xe000020e for DIF 0xc and device PCI\VEN_15AD&DEV_0405&SUBSYS_040515AD&REV_00\3&18D45AA6&0&78
+dispci.dll:  ============END DisplayClassInstaller==============
