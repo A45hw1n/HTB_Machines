@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Wed Jul  6 17:39:05 2022 as: nmap -sC -sV -T5 -p 1-7000 -oA nmap/Redeemer 10.129.85.11
+Host: 10.129.85.11 ()	Status: Up
+Host: 10.129.85.11 ()	Ports: 6379/open/tcp//redis//Redis key-value store 5.0.7/	Ignored State: closed (6999)
+# Nmap done at Wed Jul  6 17:39:27 2022 -- 1 IP address (1 host up) scanned in 22.55 seconds

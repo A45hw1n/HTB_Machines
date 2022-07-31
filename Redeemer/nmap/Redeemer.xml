@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.92 scan initiated Wed Jul  6 17:39:05 2022 as: nmap -sC -sV -T5 -p 1-7000 -oA nmap/Redeemer 10.129.85.11 -->
+<nmaprun scanner="nmap" args="nmap -sC -sV -T5 -p 1-7000 -oA nmap/Redeemer 10.129.85.11" start="1657143545" startstr="Wed Jul  6 17:39:05 2022" version="7.92" xmloutputversion="1.05">
+<scaninfo type="syn" protocol="tcp" numservices="7000" services="1-7000"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<hosthint><status state="up" reason="unknown-response" reason_ttl="0"/>
+<address addr="10.129.85.11" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+</hosthint>
+<host starttime="1657143545" endtime="1657143567"><status state="up" reason="reset" reason_ttl="63"/>
+<address addr="10.129.85.11" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<ports><extraports state="closed" count="6999">
+<extrareasons reason="reset" count="6999" proto="tcp" ports="1-6378,6380-7000"/>
+</extraports>
+<port protocol="tcp" portid="6379"><state state="open" reason="syn-ack" reason_ttl="63"/><service name="redis" product="Redis key-value store" version="5.0.7" method="probed" conf="10"><cpe>cpe:/a:redislabs:redis:5.0.7</cpe></service></port>
+</ports>
+<times srtt="162316" rttvar="538" to="164468"/>
+</host>
+<runstats><finished time="1657143567" timestr="Wed Jul  6 17:39:27 2022" summary="Nmap done at Wed Jul  6 17:39:27 2022; 1 IP address (1 host up) scanned in 22.55 seconds" elapsed="22.55" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>
