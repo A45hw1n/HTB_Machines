@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Sun Jul 24 09:23:53 2022 as: nmap -sC -sV -oA nmap/Ignition 10.129.1.27
+Host: 10.129.1.27 ()	Status: Up
+Host: 10.129.1.27 ()	Ports: 80/open/tcp//http//nginx 1.14.2/	Ignored State: closed (999)
+# Nmap done at Sun Jul 24 09:24:40 2022 -- 1 IP address (1 host up) scanned in 47.54 seconds

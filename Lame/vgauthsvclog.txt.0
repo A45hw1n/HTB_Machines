@@ -1,0 +1,16 @@
+[Jul 29 09:04:16.122] [ message] [VGAuthService] VGAuthService 'build-4448496' logging at level 'normal'
+[Jul 29 09:04:16.122] [ message] [VGAuthService] Pref_LogAllEntries: 1 preference groups in file '/etc/vmware-tools/vgauth.conf'
+[Jul 29 09:04:16.123] [ message] [VGAuthService] Group 'service'
+[Jul 29 09:04:16.123] [ message] [VGAuthService] 	 samlSchemaDir=/usr/lib/vmware-vgauth/schemas
+[Jul 29 09:04:16.123] [ message] [VGAuthService] Pref_LogAllEntries: End of preferences
+[Jul 29 09:04:16.496] [ message] [VGAuthService] VGAuthService 'build-4448496' logging at level 'normal'
+[Jul 29 09:04:16.496] [ message] [VGAuthService] Pref_LogAllEntries: 1 preference groups in file '/etc/vmware-tools/vgauth.conf'
+[Jul 29 09:04:16.515] [ message] [VGAuthService] Group 'service'
+[Jul 29 09:04:16.515] [ message] [VGAuthService] 	 samlSchemaDir=/usr/lib/vmware-vgauth/schemas
+[Jul 29 09:04:16.515] [ message] [VGAuthService] Pref_LogAllEntries: End of preferences
+[Jul 29 09:04:16.515] [ message] [VGAuthService] Cannot load message catalog for domain 'VGAuthService', language 'C', catalog dir '.'.
+[Jul 29 09:04:16.515] [ message] [VGAuthService] INIT SERVICE
+[Jul 29 09:04:16.515] [ message] [VGAuthService] Using '/var/lib/vmware/VGAuth/aliasStore' for alias store root directory
+[Jul 29 09:04:16.605] [ message] [VGAuthService] SAMLCreateAndPopulateGrammarPool: Using '/usr/lib/vmware-vgauth/schemas' for SAML schemas
+[Jul 29 09:04:16.695] [ message] [VGAuthService] SAML_Init: Allowing 300 of clock skew for SAML date validation
+[Jul 29 09:04:16.696] [ message] [VGAuthService] BEGIN SERVICE
